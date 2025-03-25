@@ -162,7 +162,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/GrindLord231/Multi-Tool"">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/GrindLord231/Multi-Tool/blob/main/Multi%20Tool.py"RedTiger-Tools.zip" Here</a>
 
 <p>
   
