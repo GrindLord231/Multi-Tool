@@ -162,7 +162,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/Multi-tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/Grindlord/Multi-tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
 
 <p>
   
@@ -175,7 +175,7 @@ Or
 ```
 1 - Open a terminal.
 2 - Write "git clone https://github.com/GrindLord231-Tools.git"
-3 - Write "cd RedTiger-Tools"
+3 - Write "cd Multi-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
